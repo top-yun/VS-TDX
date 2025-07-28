@@ -39,7 +39,7 @@ There is two main issues for fine-tuning VLMs.
 So, We focused on the incorrect answers. Incorrect answers can be generated not just as a single instance but in multiple variations. Through these incorrect answers, RGB-bounded reasoning can be suppressed.
 
 <p align="center">
-  <img src="resources/DNA.png" :height="180px" width="600px">
+  <img src="resources/DNA.png" :height="400px" width="800px">
 </p>
 
 Through these methods, we were able to achieve sufficient fine-tuning with 200 images for each sensor. ([train dataset](https://drive.google.com/file/d/1z0kzT9iVRGqWNF6Q9X_Zajya2PS-iUbh/view?usp=drive_link))
