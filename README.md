@@ -1,4 +1,6 @@
-# Vision Sensor Perception and Reasoning Benchmark  
+# VS-TDX Benchmark (Vision Sensor Perception and Understading Benchmark) 
+
+[Benchmark Dataset](https://drive.google.com/file/d/1ES5epyF-XV0eI93vCc9w1UthTY9FYgVe/view?usp=sharing)
 
 We present the **VS-TDX benchmark**, designed to evaluate Vision-Language Models (VLMs) on sensor-specific reasoning tasks. Alongside this, we propose the **Sensor-Aware Attribute Fine-Tuning** with **Diverse Negative Attributes (DNA) optimization**, enabling VLMs to perform deep reasoning across multi-vision sensor tasks by addressing the core information gap between images and sensor data. Experimental results demonstrate that DNA optimization significantly enhances the reasoning capabilities of VLMs in multi-vision sensor scenarios.
 
@@ -47,6 +49,8 @@ Through these methods, we were able to achieve sufficient fine-tuning with 200 i
 </p>
 
 #  How to Evaluation?
+
+We upload Benchmark Dataset on [Google Drive](https://drive.google.com/file/d/1ES5epyF-XV0eI93vCc9w1UthTY9FYgVe/view?usp=sharing). Please place it inside the './dataset' folder.
 
 We have provided two example codes for evaluation: Open Model([**test.py**](https://github.com/top-yun/VS-TDX/blob/master/test.py)) and Closed Model([**test_closed_models.py**](https://github.com/top-yun/VS-TDX/blob/master/test_closed_models.py)). You can easily run them as shown below.
 
