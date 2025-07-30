@@ -19,7 +19,7 @@ Many Large-scale Vision-Language Models(LVLMs) have basic knowledge of various s
   <img src="resources/examples.png" :height="400px" width="800px">
 </p>
 
-The benchmark dataset consists of **three types of sensors(Thermal, Depth, X-ray) and six types of questions(Existence, Count, Position, Scene Description, Contextual Reasoning, Sensor Reasoning).** Examples of each are shown in the image above. It consists of approximately 10k questions and answers, with the questions broadly categorized into **Multi-vision Perception** and **Multi-vision Reasoning**.
+The benchmark dataset consists of **three types of sensors(Thermal, Depth, X-ray) and six types of questions(Existence, Count, Position, Scene Description, Contextual Understanding, Sensor Understanding).** Examples of each are shown in the image above. It consists of approximately 10k questions and answers, with the questions broadly categorized into **Multi-vision Perception** and **Multi-vision Understanding**.
 
 # 🏆 VS-TDX Leaderboard
 
