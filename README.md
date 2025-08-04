@@ -1,6 +1,6 @@
 # VS-TDX Benchmark (Vision Sensor Perception and Understading Benchmark) 
 
-[Benchmark Dataset](https://drive.google.com/file/d/1ES5epyF-XV0eI93vCc9w1UthTY9FYgVe/view?usp=sharing)
+[**Dataset (Google Drive)**](https://drive.google.com/file/d/1ES5epyF-XV0eI93vCc9w1UthTY9FYgVe/view?usp=sharing) | [**🤗 Dataset (Hungging Face)**](https://huggingface.co/datasets/topyun/VS-TDX)
 
 We present the **VS-TDX benchmark**, designed to evaluate Vision-Language Models (VLMs) on sensor-specific reasoning tasks. Alongside this, we propose the **Sensor-Aware Attribute Fine-Tuning** with **Diverse Negative Attributes (DNA) optimization**, enabling VLMs to perform deep reasoning across multi-vision sensor tasks by addressing the core information gap between images and sensor data. Experimental results demonstrate that DNA optimization significantly enhances the reasoning capabilities of VLMs in multi-vision sensor scenarios.
 
